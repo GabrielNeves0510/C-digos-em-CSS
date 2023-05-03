@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: #800;
+    color: #fff;
+    margin: 0;
+    padding: 30px 0;
+  }
+  
+  .info {
+    padding: 30px;
+  }
+  
+  h2 {
+    color: #800000;
+    font-size: 24px;
+  }
+  h3 {
+    color:black;
+    font-size: 18px;
+  }
+  
+  p, ul, ol {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  ul, ol {
+    margin: 0;
+    padding: 0 0 0 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    font-size: 17px;
+  }
